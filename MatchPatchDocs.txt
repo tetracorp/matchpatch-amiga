@@ -1,0 +1,87 @@
+MatchPatch
+
+MatchPatch is a 24 level platform game in which you have to destroy all the
+aliens on each level, or get to a bonus screen to progress to the next level,
+To prevent you from achieving this goal there are deadly aliens that kill on
+contact, plus a timer which will take one of your lives if it expires. There
+are five different aliens to overcome, all with individual characteristics.
+
+The stone men walk slowly around the platforms, moving from the top to the
+bottom of the screen. Icebergs on the other hand. can jump up to higher
+platforms suddenly, as can the fire balls, which move around very quickly.
+
+Watch out for storm clouds &ndash electricity &ndash; which can change
+direction just when you think you're safe, and the light bulbs which bounce off
+the platforms at an angle.
+
+Which aliens will be on which screen and their order is shown at the top left
+of the display. This order is important because it controls the types of bullet
+you can fire. An arrow under the order of the aliens at the top left of the
+display indicates which type of alien your bullets will kill.
+
+If the arrow is under the iceberg alien for example, this is the only type you
+can kill. Any other aliens you hit will be transformed into the next alien in
+that level's order, but not to the type you can kill.
+
+To enable you to kill all the aliens there are holes in the bottom platforms.
+Over the holes ore arrows that indicate which type of bullet you can collect if
+you lump down the hole.
+
+Jump down the hole with the Fire button pressed and not only do you collect the
+indicated type of bullet but you also cycle the arrow over the hole to the next
+bullet in the level's order. After jumping down the hole you'll appear at the
+top of the screen, so look before you leap! As you'd expect, the aliens can
+jump down the holes as well. After doing so, they'll be transformed into the
+type of alien indicated by the arrow, To help or hinder, there are various
+bonuses to collect.
+
+Cakes get you an extra life and the glass boosts your fire range. Moving over
+the clock stops the clock and if you get the egg timer, you'll win extra time.
+
+The coin is a score bonus, the bomb kills all the aliens on the screen, and the
+tap drowns all the fire balls. An on/off switch gives you mega bullets that
+keep going after killing an alien. But watch out for the herbs, they're deadly!
+If you collect the flower bonus you will go to a maze level where you must
+reach the exit at the bottom of the screen before the timer expires, succeed
+and you get extra points. You then go to the next level of the main game.
+
+There are 16 maze levels and movement between them is controlled by a joystick
+in port 2, left and right to run left and right, up to jump up, fire to shoot
+bullets. At any time during the game the left mouse button will pause the game
+and the right mouse button will restart. To start the game after loading, press
+fire.
+
+At the end of the game, if your score is high enough, you will be able to enter
+your name in the high score table. The whole program loads into memory so the
+disk can be removed after loading. Don't worry about the disk drive light
+staying on, it's just a bit of sloppy programming.
+
+Hints
+
+After dying, you'll be invulnerable until the timer restarts. On the title
+screen hold the joystick right then press the fire button for a extra life
+every 10,000 points, instead of the usual 20,000 points. Again on the title
+screen. hold the joystick left then press the fire button to start on Level 10.
+
+If the timer is getting low on a level and there are a lot of aliens left, use
+the bonuses if possible.
+
+The flower bonus ends the current level without loss of life even if you do not
+complete the maze.
+
+Try to set all the arrows the same. This limits the types of alien on a level,
+making it easier to kill them.
+
+Find a safe platform area where you can shoot the aliens as they run by. The
+on/off switch bonus lets your bullet pass through on alien after it has been
+hit, allowing you to shoot more than one at a time.
+
+On the maze levels, time is limited, so start to run immediately and work out
+your route on the move, Failing to do this will probably mean no extra points.
+
+MatchPatch was written in assembly language (Devpac 2) by Stephen Winstanley.
+It may be offered for download on bulletin boards provided it is made available
+as a free download.
+
+
+(Excerpted from Amiga Computing #33 (Feb 1991), p.32.)
